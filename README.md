@@ -1,1 +1,3 @@
-# -PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Case-Experience
+Data Analytics and Visualization for Business Impact with Power BI
+
+This project was part of the PwC Switzerland Power BI in Data Analytics Virtual Case Experience, showcasing the use of digital tools in data visualization, automation, data cleansing, and more to solve common business challenges. It involved creating a series of Power BI dashboards that focused on Call Centre Trends, Customer Retention, and Diversity & Inclusion. Each dashboard offered actionable insights into various aspects of business operations and strategic planning, helping PwC Switzerland and its clients improve operational efficiency, strengthen customer loyalty, and foster a more inclusive workplace.
